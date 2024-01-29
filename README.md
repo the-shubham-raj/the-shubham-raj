@@ -1,4 +1,4 @@
-![MasterHead](https://media1.tenor.com/m/1mwdqr51emcAAAAC/test-typing.gif)
+![logo](https://i.giphy.com/KX5nwoDX97AtPvKBF6.webp)
 <h1 align="center">Hi 👋, I'm Shubham Raj</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmp2Y2s0ZWltYmJrMW55bTdjaXRhN2FnN3h2OGQ3bTYyYjdnejNuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif">
