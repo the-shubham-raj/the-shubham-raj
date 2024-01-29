@@ -1,4 +1,4 @@
-![logo](https://i.giphy.com/KX5nwoDX97AtPvKBF6.webp)
+![logo](https://github.com/the-shubham-raj/github_banner/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shubham Raj</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmp2Y2s0ZWltYmJrMW55bTdjaXRhN2FnN3h2OGQ3bTYyYjdnejNuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif">
