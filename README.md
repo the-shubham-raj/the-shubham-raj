@@ -1,30 +1,23 @@
 ![logo](https://github.com/the-shubham-raj/github_banner/blob/main/black-white%20banner.png)
-<h1 align="center">Hi 👋, I'm Shubham Raj</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# 💫 About Me:
+👋 Greetings! I'm Shubham Raj, a dedicated data analyst with a passion for uncovering insights and driving impactful decisions through data-driven approaches. With a solid foundation in Data Analysis, I bring a blend of analytical skills, business acumen, and a knack for storytelling to every project I undertake.<br>My Expertise:<br>📊 Data Exploration & Analysis: I excel in exploring and analyzing datasets of varying complexity, using techniques such as data cleaning, manipulation, and exploratory data analysis (EDA) to extract meaningful insights.<br>📈 Statistical Analysis & Modeling: I'm proficient in applying statistical techniques and machine learning algorithms to model data, identify trends, make predictions, and optimize processes.<br>📊 Data Visualization & Communication: I have a talent for creating visually compelling dashboards, reports, and presentations that effectively communicate complex findings to diverse audiences.<br>🔍 Problem Solving: I thrive on tackling challenging problems and finding innovative solutions by leveraging data-driven methodologies.<br>My Toolbox:<br>🛠️ Languages & Tools: I'm experienced in using languages such as Python, R, SQL, and tools like Pandas, NumPy, Matplotlib, ggplot2, and Power BI.<br>🧠 Continuous Learning: I'm committed to staying updated with the latest trends, technologies, and best practices in the field of data analytics through continuous learning and professional development.<br>What Inspires Me:<br>🌱 Impact: I'm driven by the opportunity to make a tangible impact through data-driven insights, whether it's optimizing processes, improving decision-making, or driving business growth.<br>🚀 Innovation: I'm fascinated by the endless possibilities that data analytics offers for innovation and transformation across industries.<br>🌐 Community & Collaboration: I believe in the power of collaboration and knowledge sharing within the data community to foster growth and drive collective progress.<br>Let's Connect:<br>I'm always eager to connect with like-minded professionals, collaborate on interesting projects, or simply engage in meaningful discussions about data analytics and its applications. Don't hesitate to reach out to me here on GitHub or connect with me on LinkedIn.<br>Let's embark on a data-driven journey together!<br><br>
+
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmp2Y2s0ZWltYmJrMW55bTdjaXRhN2FnN3h2OGQ3bTYyYjdnejNuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.shubham.raj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/the-shubham-raj) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/theshubhamraj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@the_shubham_raj) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-shubham-raj&label=Profile%20views&color=0e75b6&style=flat" alt="the-shubham-raj" /> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=the-shubham-raj&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=the-shubham-raj&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-shubham-raj&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://twitter.com/@the_shubham_raj" target="blank"><img src="https://img.shields.io/twitter/follow/@the_shubham_raj?logo=twitter&style=for-the-badge" alt="@the_shubham_raj" /></a> </p>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-- 📫 How to reach me **the.shubham.raj@outlook.com**
+---
+[![](https://visitcount.itsvg.in/api?id=the-shubham-raj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I think I am Funny😊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@the_shubham_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@the_shubham_raj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/the-shubham-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-shubham-raj" height="30" width="40" /></a>
-<a href="https://fb.com/rajrocky0631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajrocky0631" height="30" width="40" /></a>
-<a href="https://instagram.com/the.shubham.raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.shubham.raj" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-shubham-raj&show_icons=true&locale=en&layout=compact" alt="the-shubham-raj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-shubham-raj&show_icons=true&locale=en" alt="the-shubham-raj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-shubham-raj&" alt="the-shubham-raj" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
